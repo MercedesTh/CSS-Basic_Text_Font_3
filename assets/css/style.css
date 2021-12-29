@@ -1,0 +1,48 @@
+/* *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+} */
+
+h1{
+    font-size: 48px;
+    font-family: Tahoma;
+    background: cornflowerblue;
+    text-align: center;
+    line-height: 80px;
+}
+
+main p{
+    text-transform: uppercase;
+    text-decoration: underline coral;
+    margin: 40px;
+}
+
+section p{
+    text-transform: lowercase;
+    text-decoration: underline coral;
+    margin: 40px;
+}
+
+h2{
+    color:coral;
+    text-align: right;
+    word-spacing: 80px;
+    letter-spacing: 20px;
+    text-shadow: -2px -2px 0 cornflowerblue;
+}
+
+article p{
+    margin: 40px;
+}
+
+ul{
+    background: coral;
+    text-indent: 60px;
+    margin: 20px;
+}
+
+li{
+    background: cornflowerblue;
+    margin: 20px;
+}
